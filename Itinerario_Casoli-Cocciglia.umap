@@ -1,0 +1,717 @@
+{
+  "type": "umap",
+  "properties": {
+    "zoom": 15,
+    "easing": false,
+    "licence": "",
+    "miniMap": false,
+    "overlay": {},
+    "slideshow": {},
+    "tilelayer": {
+      "tms": false,
+      "name": "OSM OpenTopoMap",
+      "maxZoom": 20,
+      "minZoom": 1,
+      "attribution": "Kartendaten: © [[https://openstreetmap.org/copyright|OpenStreetMap]]-Mitwirkende, [[http://viewfinderpanoramas.org/|SRTM]] | Kartendarstellung: © [[https://opentopomap.org/|OpenTopoMap]] ([[https://creativecommons.org/licenses/by-sa/3.0/|CC-BY-SA]])",
+      "url_template": "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+    },
+    "captionBar": false,
+    "description": "",
+    "limitBounds": {},
+    "moreControl": true,
+    "zoomControl": true,
+    "captionMenus": true,
+    "embedControl": true,
+    "scaleControl": true,
+    "searchControl": true,
+    "scrollWheelZoom": true,
+    "datalayersControl": true,
+    "fullscreenControl": true,
+    "displayPopupFooter": false,
+    "permanentCreditBackground": true,
+    "name": "Itinerario_Casoli-Cocciglia"
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "Provincia": "Lucca",
+            "Comune": "Bagni di Lucca",
+            "Descrizione": "Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero",
+            "Copertura rete mobile": "",
+            "Copertura GPS": "",
+            "Data": "",
+            "ulsp_type": "Percorso",
+            "Titolo": "Itinerario Casoli-Cocciglia",
+            "Punto d'accesso": "Dal centro del paese di Casoli",
+            "Foto accesso": "",
+            "Difficoltà": "Facile",
+            "Lunghezza": "2",
+            "Durata": "00:40:00",
+            "Dislivello in salita": "118",
+            "Dislivello in discesa": "250",
+            "Segnaletica": "",
+            "Strumento": "",
+            "Ora": "",
+            "_umap_options": {
+              "popupTemplate": "Default"
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Itinerario_Casoli-Cocciglia"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                10.669211,
+                44.038931,
+                435.66
+              ],
+              [
+                10.669153,
+                44.038939,
+                435.66
+              ],
+              [
+                10.668461,
+                44.039272,
+                435.66
+              ],
+              [
+                10.668386,
+                44.039291,
+                435.66
+              ],
+              [
+                10.668265,
+                44.039262,
+                435.66
+              ],
+              [
+                10.668216,
+                44.039206,
+                435.66
+              ],
+              [
+                10.667328,
+                44.039242,
+                429.5
+              ],
+              [
+                10.667195,
+                44.039191,
+                428.38
+              ],
+              [
+                10.667491,
+                44.039015,
+                425.52
+              ],
+              [
+                10.667726,
+                44.038736,
+                422.15
+              ],
+              [
+                10.668042,
+                44.038552,
+                419.13
+              ],
+              [
+                10.668308,
+                44.038347,
+                416.2
+              ],
+              [
+                10.668971,
+                44.038083,
+                410.38
+              ],
+              [
+                10.669124,
+                44.038061,
+                409.18
+              ],
+              [
+                10.6694,
+                44.037929,
+                406.63
+              ],
+              [
+                10.669461,
+                44.037775,
+                404.92
+              ],
+              [
+                10.669206,
+                44.037767,
+                402.96
+              ],
+              [
+                10.66889,
+                44.037628,
+                400.11
+              ],
+              [
+                10.66889,
+                44.037525,
+                399.01
+              ],
+              [
+                10.66893,
+                44.037459,
+                398.24
+              ],
+              [
+                10.668859,
+                44.037283,
+                395.13
+              ],
+              [
+                10.668788,
+                44.037188,
+                393.12
+              ],
+              [
+                10.668706,
+                44.036901,
+                387.68
+              ],
+              [
+                10.668502,
+                44.036549,
+                380.58
+              ],
+              [
+                10.668359,
+                44.036564,
+                378.65
+              ],
+              [
+                10.668012,
+                44.036887,
+                371.06
+              ],
+              [
+                10.667726,
+                44.036894,
+                367.23
+              ],
+              [
+                10.667267,
+                44.036799,
+                361.13
+              ],
+              [
+                10.667042,
+                44.036821,
+                358.34
+              ],
+              [
+                10.666991,
+                44.036909,
+                356.71
+              ],
+              [
+                10.667001,
+                44.037122,
+                353.07
+              ],
+              [
+                10.666971,
+                44.037261,
+                350.66
+              ],
+              [
+                10.666818,
+                44.037224,
+                348.68
+              ],
+              [
+                10.666818,
+                44.037056,
+                345.81
+              ],
+              [
+                10.666777,
+                44.036968,
+                344.22
+              ],
+              [
+                10.666511,
+                44.036872,
+                340.56
+              ],
+              [
+                10.666573,
+                44.036535,
+                334.75
+              ],
+              [
+                10.66646,
+                44.036403,
+                332.26
+              ],
+              [
+                10.666491,
+                44.036278,
+                330.3
+              ],
+              [
+                10.666634,
+                44.03608,
+                326.87
+              ],
+              [
+                10.666613,
+                44.035977,
+                325.26
+              ],
+              [
+                10.666399,
+                44.035933,
+                322.8
+              ],
+              [
+                10.666061,
+                44.035995,
+                318.94
+              ],
+              [
+                10.666006,
+                44.036054,
+                317.85
+              ],
+              [
+                10.665784,
+                44.036117,
+                315.21
+              ],
+              [
+                10.665513,
+                44.03625,
+                311.58
+              ],
+              [
+                10.66534,
+                44.036496,
+                307.33
+              ],
+              [
+                10.665208,
+                44.036595,
+                305.22
+              ],
+              [
+                10.665138,
+                44.036705,
+                303.37
+              ],
+              [
+                10.665177,
+                44.03697,
+                299.28
+              ],
+              [
+                10.665097,
+                44.037018,
+                298.13
+              ],
+              [
+                10.664879,
+                44.03701,
+                295.72
+              ],
+              [
+                10.664775,
+                44.037027,
+                294.54
+              ],
+              [
+                10.66449,
+                44.037166,
+                290.74
+              ],
+              [
+                10.664326,
+                44.037217,
+                288.77
+              ],
+              [
+                10.664003,
+                44.037215,
+                285.2
+              ],
+              [
+                10.664016,
+                44.037137,
+                284
+              ],
+              [
+                10.663952,
+                44.037066,
+                282.7
+              ],
+              [
+                10.663799,
+                44.037074,
+                281
+              ],
+              [
+                10.663755,
+                44.037108,
+                280.29
+              ],
+              [
+                10.663712,
+                44.037262,
+                278.04
+              ],
+              [
+                10.663697,
+                44.03745,
+                276.17
+              ],
+              [
+                10.663571,
+                44.037585,
+                274.56
+              ],
+              [
+                10.663415,
+                44.037666,
+                273.19
+              ],
+              [
+                10.663181,
+                44.037725,
+                271.42
+              ],
+              [
+                10.663037,
+                44.03784,
+                269.88
+              ],
+              [
+                10.662989,
+                44.037847,
+                269.53
+              ],
+              [
+                10.663068,
+                44.037719,
+                268.14
+              ],
+              [
+                10.662989,
+                44.037847,
+                266.75
+              ],
+              [
+                10.662968,
+                44.03785,
+                266.6
+              ],
+              [
+                10.662734,
+                44.037849,
+                264.93
+              ],
+              [
+                10.662702,
+                44.037861,
+                264.67
+              ],
+              [
+                10.662675,
+                44.037946,
+                263.81
+              ],
+              [
+                10.662621,
+                44.037954,
+                263.41
+              ],
+              [
+                10.662608,
+                44.038069,
+                262.27
+              ],
+              [
+                10.662548,
+                44.037992,
+                261.39
+              ],
+              [
+                10.662497,
+                44.037835,
+                260.55
+              ],
+              [
+                10.66236,
+                44.037731,
+                260.68
+              ],
+              [
+                10.66228,
+                44.037716,
+                260.74
+              ],
+              [
+                10.662226,
+                44.037729,
+                260.78
+              ],
+              [
+                10.661949,
+                44.037842,
+                260.99
+              ],
+              [
+                10.661826,
+                44.037857,
+                261.07
+              ],
+              [
+                10.661765,
+                44.037837,
+                261.12
+              ],
+              [
+                10.661675,
+                44.037784,
+                261.19
+              ],
+              [
+                10.661484,
+                44.037757,
+                261.32
+              ],
+              [
+                10.66139,
+                44.037667,
+                261.42
+              ],
+              [
+                10.661067,
+                44.037617,
+                261.64
+              ],
+              [
+                10.66097,
+                44.037627,
+                261.71
+              ],
+              [
+                10.660732,
+                44.037759,
+                261.91
+              ],
+              [
+                10.660621,
+                44.037773,
+                261.98
+              ],
+              [
+                10.659818,
+                44.03771,
+                267.38
+              ],
+              [
+                10.659685,
+                44.03772,
+                268.62
+              ],
+              [
+                10.659537,
+                44.037749,
+                270.05
+              ],
+              [
+                10.659367,
+                44.037828,
+                271.93
+              ],
+              [
+                10.659328,
+                44.037866,
+                272.55
+              ],
+              [
+                10.659585,
+                44.03802,
+                275.66
+              ],
+              [
+                10.659657,
+                44.038034,
+                276.36
+              ],
+              [
+                10.659736,
+                44.038206,
+                278.7
+              ],
+              [
+                10.660219,
+                44.038507,
+                284.66
+              ],
+              [
+                10.660469,
+                44.038596,
+                285.45
+              ],
+              [
+                10.660388,
+                44.038639,
+                285.45
+              ],
+              [
+                10.660618,
+                44.038689,
+                285.45
+              ],
+              [
+                10.660671,
+                44.038808,
+                285.45
+              ],
+              [
+                10.660562,
+                44.038863,
+                285.45
+              ],
+              [
+                10.660545,
+                44.038901,
+                285.45
+              ],
+              [
+                10.660575,
+                44.038906,
+                285.45
+              ],
+              [
+                10.660614,
+                44.038959,
+                285.45
+              ],
+              [
+                10.66057,
+                44.039015,
+                285.45
+              ],
+              [
+                10.660632,
+                44.038989,
+                285.45
+              ],
+              [
+                10.660609,
+                44.039034,
+                285.45
+              ],
+              [
+                10.660694,
+                44.038983,
+                285.45
+              ],
+              [
+                10.660718,
+                44.038995,
+                285.45
+              ],
+              [
+                10.660831,
+                44.038999,
+                285.45
+              ]
+            ]
+          },
+          "id": "M4MzU"
+        }
+      ],
+      "_umap_options": {
+        "name": "Percorso",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}|GitHub repository]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "POI",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "QRtag",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n## [[{GitHubURL}|GitHub repository]] \n{Testo} \n \nFID: {fid}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Sito",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "DarkBlue",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
+      }
+    }
+  ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.669211,
+      44.038931,
+      435.66
+    ]
+  }
+}
